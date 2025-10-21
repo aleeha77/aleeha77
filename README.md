@@ -13,7 +13,7 @@
 
 ### About Me
 
-- 🔭 I’m currently working on [Campus Vision – Automated Student Entrance Verification & Violation Detection System for my FYP](https://github.com/AleehaZahid/Campus-Vision)  
+- 🔭 I’m currently working on [Campus Vision – Automated Student Entrance Verification & Violation Detection System for my FYP](https://github.com/AleehaZahid/University-Campus-Vision)  
 - 🌱 I’m learning **Deep Learning, Computer Vision, and React-based full-stack development.**  
 - 👯 I’m open to collaborating on **AI/ML or React projects** that push me to learn something new.  
 - 🤝 I’m looking for help with **Deploying ML models efficiently for real-time applications.**  
