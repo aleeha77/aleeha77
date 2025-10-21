@@ -1,16 +1,10 @@
 <div align="center" style="background-color:#ffb6c1; padding: 35px; border-radius: 20px;">
 
-  <h1>Hi I'm Aleeha Zahid </h1>
-  <h3>An AI & ML Developer passionate about building things that think and look good.</h3>
+  <h1>Hi I'm Aleeha Zahid</h1>
+  <h3>An AI and ML Developer passionate about creating intelligent systems that think, see, and look good by combining machine learning with computer vision to build smart, visually appealing solutions.</h3>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=aleeha77&label=Profile%20views&color=ff69b4&style=flat" alt="aleeha77" />
-  </p>
-
-  <p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=aleeha77&theme=juicyfresh" alt="aleeha77" />
-    </a>
   </p>
 
 </div>
