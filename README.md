@@ -1,7 +1,8 @@
 <div align="center" style="background-color:#ffb6c1; padding: 35px; border-radius: 20px;">
 
-  <h1>Hi I'm Aleeha Zahid</h1>
-  <h3>An AI and ML Developer passionate about creating intelligent systems that think, see, and look good by combining machine learning with computer vision to build smart, visually appealing solutions.</h3>
+  <h1>Hi I'm Aleeha Zahid 👋</h1>
+  <h3>Machine Learning Engineer | AI Model Deployment Enthusiast</h3>
+  <p>Building scalable inference systems and production-ready AI solutions by bridging the gap between deep learning and robust backend engineering.</p>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=aleeha77&label=Profile%20views&color=ff69b4&style=flat" alt="aleeha77" />
@@ -13,46 +14,55 @@
 
 ### About Me
 
-- 🔭 I’m currently working on [Campus Vision – Automated Student Entrance Verification & Violation Detection System for my FYP](https://github.com/aleeha77/university-verification-system)  
-- 🌱 I’m learning **Deep Learning, Computer Vision, and React-based full-stack development.**  
-- 👯 I’m open to collaborating on **AI/ML or React projects** that push me to learn something new.  
-- 🤝 I’m looking for help with **Deploying ML models efficiently for real-time applications.**  
-- 👨‍💻 All of my projects are available at [github.com/AleehaZahid](https://github.com/AleehaZahid)  
-- 💬 Ask me about **Machine Learning, Python, Computer Vision, React, or how to start learning AI from scratch.**  
-- 📫 Reach me at **aleehazahid33@gmail.com**  
-- ⚡ Fun fact: **I love drawing portraits!**
+- **Top-Ranked Fellow** (out of 100+) in the Bytewise ML Fellowship.
+- **Current Focus:** Developing **Campus Vision**, an AI security system featuring real-time violence detection and facial recognition
+- **Expertise:** Transitioning from core ML research to **RAG Architectures**, **LLMs**, and **Scalable Model Deployment**
+- **Experience:** Previously a Machine Learning Intern at ITSOLERA and a Bytewise ML Fellow
+- Ask me about **FastAPI, PyTorch, Dockerizing ML models, or RAG-powered AI Copilots**
+- Reach me at: **aleehazahid33@gmail.com**
+- Fun fact: I balance my technical side with a passion for **drawing portraits**.
+
+---
+
+### Tech Stack & Tools
+
+**AI / Machine Learning**
+- PyTorch, TensorFlow, Scikit-learn, OpenCV 
+- RAG, LLMs, NLP, Vector Embeddings 
+
+**Backend & Deployment**
+- Python, FastAPI, SQL, SQLAlchemy, Pydantic
+- Docker, Docker Compose, Nginx, Uvicorn, REST APIs 
+
+**Security & Infrastructure**
+- JWT Authentication, RBAC, Git 
+
+---
+
+### Featured Projects
+
+- **Enterprise AI Copilot:** A RAG-powered assistant with secure document Q&A and RBAC, containerized with Docker
+- **ML Model Deployment API:** Built a high-performance FastAPI service for real-time SMS spam classification
+- **Campus Vision:** Designed a scalable system architecture for campus-level security deployment
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleeha77&show_icons=true&locale=en&layout=compact&theme=rose_pine" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aleeha77&show_icons=true&locale=en&theme=rose_pine" alt="Stats" />
+</p>
 
 ---
 
 ### Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aleeha-zahid-697664320/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/aleeha-697664320" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:aleehazahid33@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="30" />
   </a>
 </p>
-
----
-
-### Languages & Tools
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-</p>
-
----
-
-### GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleeha77&show_icons=true&locale=en&layout=compact&theme=rose_pine" alt="Top Languages" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleeha77&show_icons=true&locale=en&theme=rose_pine" alt="Stats" /></p>
