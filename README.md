@@ -18,11 +18,10 @@
 
 ## 👩‍💻 About Me
 
-I'm a **BS Artificial Intelligence graduate from NUML** interested in building software that combines solid backend development with AI.
+I'm a **BS Artificial Intelligence graduate** interested in building software that combines solid backend development with AI.
 
 My main focus is **full-stack and backend development**, particularly applications where an AI component solves a real problem rather than existing just as a demo.
 
-* 🎓 BS Artificial Intelligence, **NUML** — CGPA **3.34/4.0**
 * 🏆 Ranked among the **top performers out of 100+ fellows** in the Bytewise ML Fellowship
 * 💼 Machine Learning Intern at **ITSOLERA**
 * 🐍 Strong focus on **Python backend development and REST APIs**
